@@ -20,7 +20,7 @@ body {
   border-radius: 10px; 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
   overflow-y: auto;
-  max-height: 620px;
+  max-height: 500px;
 }
 
 .draggable {
@@ -68,7 +68,7 @@ body {
 .name {
   text-align: center;
   color: red;
-  font-size: 100px;
+  font-size: 80px;
   width: 100%;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5),-2px -2px 4px rgba(255, 255, 255, 0.5);
 }
@@ -88,10 +88,10 @@ h1{
 }
 img{
   margin-top: 15px;
-  width: 10%;
-  height: 100px;
+  width: 8%;
+  height: 80px;
 }
 .heading p{
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 }
